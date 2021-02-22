@@ -53,7 +53,8 @@ const Hero = () => {
   const four = (
     <p>
       I'm a software engineer based in Manchester, England specializing in building (and occasionally
-      designing) exceptional dashboards, databases, and everything in between.
+      designing) exceptional dashboards, databases, and everything in between. Shoutout to <a href="https://brittanychiang.com/">Brittnay</a> for opensourcing her design. 
+
     </p>
   );
   const five = (
