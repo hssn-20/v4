@@ -18,7 +18,7 @@ const IconLogo = () => (
           points="39 0 0 22 0 67 39 90 78 68 78 23"
         />
       </g>
-      <text x="50" y="55" font-size="22px" font-weight="500" font-family="sans-serif" fill="currentColor" text-anchor="middle" >H</text>
+
     </g>
   </svg>
 );
